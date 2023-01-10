@@ -18,10 +18,12 @@
 }
 
 .navLinks{
+    font-family: 'Montserrat', sans-serif;
     position: relative;
     bottom: 25px;
     color: white;
     margin-left: 10px;
+    text-decoration: none;
 }
 
 .small-logo{
